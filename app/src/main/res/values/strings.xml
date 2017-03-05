@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">USA Summer Olympics Trivia</string>
+    <string name="question_1">1. The US has won more Summer Olympic medals than any other country?</string>
+    <string name="answer_1a">True</string>
+    <string name="answer_1b">False</string>
+    <string name="question_2">2. Which US city has hosted the Summer Olympics twice?</string>
+    <string name="answer_2a">New York</string>
+    <string name="answer_2b">Atlanta</string>
+    <string name="answer_2c">Los Angeles</string>
+    <string name="question_3">3. Who is the most decorated US Olympic athlete?</string>
+    <string name="question_4">4. What 1960 Olympic champion lit the torch to start Atlanta\'s 1996 Olympic festivities?</string>
+    <string name="question_5">5. How many gold medals did Mark Spitz win at the 1972 games?</string>
+    <string name="answer_5a">7</string>
+    <string name="answer_5b">8</string>
+    <string name="answer_5c">9</string>
+    <string name="question_6">6. Which US Diver won the gold medal at the 1988 games despite hitting his head on the board on the way down?</string>
+    <string name="question_7">7. In what year did the US boycott the Summer Olympic games?</string>
+    <string name="answer_7a">1972</string>
+    <string name="answer_7b">1976</string>
+    <string name="answer_7c">1980</string>
+    <string name="question_8">8. Of the following, who were members of the 1992 US Men\'s Olympic basketball team?</string>
+    <string name="answer_8a">Larry Bird</string>
+    <string name="answer_8b">Michael Jordan</string>
+    <string name="answer_8c">Lebron James</string>
+    <string name="answer_8d">Charles Barkley</string>
+    <string name="question_9">9. Mary Lou Retton won the Olympic gold medal in which sport in 1984?</string>
+    <string name="question_10">10. In what sport was the US Olympic team nicknamed the "Dream Team"?</string>
+    <string name="button_reset">Reset Quiz</string>
+    <string name="button_text">Submit</string>
+</resources>
